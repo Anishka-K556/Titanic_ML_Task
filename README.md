@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster 🚢
+# Titanic - Machine Learning from Disaster
 
 This project is a solution to the classic Kaggle competition: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic). The goal is to build a predictive model that determines whether a passenger survived the Titanic shipwreck based on features such as age, class, sex, and more.
 
@@ -84,6 +84,17 @@ Ticket Type Counts: Analyzed the frequency of different ticket prefixes and thei
 
 Gender Counts: Investigated the male-to-female ratio and its impact on survival outcomes.
 
+### Age Distribution by Survival
+![Age Distribution](images/age_distribution.png)
+
+### Embarked vs Survival
+![Embarked](images/embarked.png)
+
+### Gender vs Survival
+![gender](images/gender.png)
+
+### Ticket Type vs Survival
+![Ticket Type](images/ticket_type.png)
 ## Model Selection
 
 **Random Forest Classifier**
@@ -115,6 +126,12 @@ Best accuracy score on validation set: 91%
 
 ---
 ## Authors
+K Anishka , SSN College of Engineering , Tamil nadu , India
+
+Faatina S , SSN College of Engineering , Tamil nadu , India
 
 ## License
+© 2025 K. Anishka, Faatina S. All rights reserved.
+This code is proprietary and may not be copied, modified, or distributed without explicit permission.
+
 
