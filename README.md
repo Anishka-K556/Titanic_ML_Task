@@ -131,7 +131,7 @@ K Anishka , SSN College of Engineering , Tamil nadu , India
 Faatina S , SSN College of Engineering , Tamil nadu , India
 
 ## License
-© 2025 K. Anishka, Faatina S. All rights reserved.
+© 2024 K. Anishka, Faatina S. All rights reserved.
 This code is proprietary and may not be copied, modified, or distributed without explicit permission.
 
 
